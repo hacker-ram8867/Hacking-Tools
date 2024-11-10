@@ -2,10 +2,6 @@
 CipherSavvy
 
 Here’s a sample README for your repository named CipherSavvy, which could focus on encryption and cybersecurity tools:
-
-markdown
-
-Copy
 # CipherSavvy
 
 **CipherSavvy** is a collection of tools and resources focused on encryption algorithms, secure communication, and ethical hacking practices. This repository is designed to help students, developers, and cybersecurity enthusiasts enhance their understanding of cryptography and security principles.
