@@ -36,25 +36,19 @@ Python 3.x
 Necessary Python libraries (can be installed using pip):
 bash
 
-Copy
 pip install -r requirements.txt
 Usage
 Here are some examples of how to use the tools in this repository:
 
 Encrypting a Message
 python
-
-Copy
 from cipher import encrypt  # Replace with actual module path
-
 message = "Hello, World!"
 key = "your_secure_key"
 encrypted_message = encrypt(message, key)
 print("Encrypted:", encrypted_message)
 Running Vulnerability Assessment Script
 bash
-
-Copy
 python assess_vulnerability.py target_url
 Refer to the individual scripts for more detailed usage instructions.
 
